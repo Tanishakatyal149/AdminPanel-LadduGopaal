@@ -1,2 +1,2 @@
-# AdminPanel-LadduGopaal
-admin panel
+# adminhub
+Website HTML, CSS, dan JavaScript
